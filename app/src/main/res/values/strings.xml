@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TUGAS-UAS-AKB-IF4-10116183</string>
+    <string name="title_activity_navigasi_draw">NavigasiDraw</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Profile</string>
+    <string name="menu_gallery">Kontak</string>
+    <string name="menu_slideshow">Daftar Teman</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GO</string>
+
+    <string name="slide_1_title">PROFILE</string>
+    <string name="slide_1_desc">Tampilkan Profilemu Disini</string>
+
+    <string name="slide_2_title">KONTAK</string>
+    <string name="slide_2_desc">Hubungi Saya Disini</string>
+
+    <string name="slide_3_title">DAFTAR TEMAN</string>
+    <string name="slide_3_desc">Tambahkan Temanmu</string>
+
+    <string name="slide_4_title">TUGAS-UAS-AKB-10116183</string>
+    <string name="slide_4_desc">Untuk memenuhi tugas AKB </string>
+
+</resources>
